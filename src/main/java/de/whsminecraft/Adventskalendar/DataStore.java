@@ -1,10 +1,13 @@
 package de.whsminecraft.Adventskalendar;
 
+import org.bukkit.Bukkit;
+import org.bukkit.OfflinePlayer;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
 
 import java.time.LocalDate;
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class DataStore {
     private Set<UUID> players;
@@ -26,5 +29,9 @@ public class DataStore {
             players.clear();
 
         players.add(player.getUniqueId());
+    }
+
+    public List<OfflinePlayer> getPlayersFromToday() {
+        return players.stream().map(uuid -> Bukkit.getOfflinePlayer(uuid)).collect(Collectors.toList());
     }
 }

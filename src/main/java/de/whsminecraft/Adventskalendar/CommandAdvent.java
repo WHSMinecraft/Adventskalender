@@ -10,6 +10,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
 
 import java.time.LocalDate;
+import java.util.stream.Collectors;
 
 
 public class CommandAdvent implements CommandExecutor {
@@ -27,7 +28,15 @@ public class CommandAdvent implements CommandExecutor {
             return false;
         }
 
-        if (args.length > 1) {
+        if (args.length == 1 && args[0].equals("players") && commandSender.isOp()) {
+            if (dataStore.getPlayersFromToday().isEmpty())
+                commandSender.sendMessage("Nobody opened today's door");
+            else
+                commandSender.sendMessage("Today's players: " + String.join(", ", dataStore.getPlayersFromToday().stream().map(p -> p.getName()).collect(Collectors.toList())));
+            return true;
+        }
+
+        if (args.length > 0) {
             return false;
         }
 
