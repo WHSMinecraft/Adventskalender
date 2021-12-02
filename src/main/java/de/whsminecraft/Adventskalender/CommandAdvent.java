@@ -1,4 +1,4 @@
-package de.whsminecraft.Adventskalendar;
+package de.whsminecraft.Adventskalender;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
@@ -60,15 +60,15 @@ public class CommandAdvent implements CommandExecutor {
 
         if (day < 1 || 24 < day) {
             plugin.getLogger().info("It's no longer christmas: Day is " + day);
-            sender.sendMessage(ChatColor.DARK_RED + "Die Zeit des Adventskalendars ist nun leider vorbei :-(");
+            sender.sendMessage(ChatColor.DARK_RED + "Die Zeit des Adventskalenders ist nun leider vorbei :-(");
             return true;
         }
 
         String item = plugin.getConfig().getConfigurationSection("items").getString("" + day);
 
         if (item == null) {
-            plugin.getLogger().severe("No item in the advent calendar for day " + day);
-            sender.sendMessage(ChatColor.DARK_RED + "Leider hat der Admin vergessen für diesen Tag etwas in den Adventskalendar zu tun. Schreib ihm dass er's verkackt hat.");
+            plugin.getLogger().severe("No item in the advent calender for day " + day);
+            sender.sendMessage(ChatColor.DARK_RED + "Leider hat der Admin vergessen für diesen Tag etwas in den Adventskalender zu tun. Schreib ihm dass er's verkackt hat.");
             return true;
         }
 

@@ -1,4 +1,4 @@
-package de.whsminecraft.Adventskalendar;
+package de.whsminecraft.Adventskalender;
 
 
 import net.md_5.bungee.api.ChatColor;
@@ -50,7 +50,7 @@ public class Main extends JavaPlugin implements Listener {
         int day = LocalDate.now().getDayOfMonth();
 
         TextComponent title = new TextComponent("Advent, Advent!");
-        TextComponent text = new TextComponent("Öffne das " + day + ". Türchen des Adventskalendars:");
+        TextComponent text = new TextComponent("Öffne das " + day + ". Türchen des Adventskalenders:");
         TextComponent cmd = new TextComponent("/advent");
 
         title.setColor(ChatColor.DARK_GREEN);

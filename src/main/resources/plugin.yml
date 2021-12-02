@@ -1,10 +1,10 @@
-name: Adventskalendar
-main: de.whsminecraft.Adventskalendar.Main
+name: Adventskalender
+main: de.whsminecraft.Adventskalender.Main
 author: Ruben Ollesch
 api-version: 1.17
 version: 1.0
 website: https://whsminecraft.de
 commands:
   advent:
-    description: Öffne ein Türchen des Adventskalendars
+    description: Öffne ein Türchen des Adventskalenders
     usage: /advent

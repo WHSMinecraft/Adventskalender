@@ -1,25 +1,25 @@
 items:
-  1: gold_block{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  2: experience_bottle{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  3: spyglass{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  4: music_disc_far{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  5: axolotl_bucket{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  6: tnt{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  7: powder_snow_bucket{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  8: black_candle{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  9: netherite_sword{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  10: music_disc_pigstep{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  11: villager_spawn_egg{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  12: totem_of_undying{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  13: player_head{display:{Name:"{\"text\":\"Schneekugel\"}",Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']},SkullOwner:{Id:[I;177065157,-835894160,-1387225976,-1033188346],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2JiZThmZDFhYTM5ZjE1MDc2ZTg4NGRmZTZkZGI5YTNmMzc2MWRiMzFlMmIxZjk5NDBiNWRmZDM0ZDFjNGQifX19"}]}}}
-  14: potion{Potion:"strong_turtle_master",display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  15: music_disc_13{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  16: dragon_breath{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  17: diamond_block{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  18: elytra{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  19: netherite_ingot{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  20: player_head{display:{Name:"{\"text\":\"Der Grinch\"}",Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']},SkullOwner:{Id:[I;-162492101,647514568,-1727142249,771732838],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRiNWY3ZWNjNDA1NzYzOTcxNzVkYTA3YjJkYzAzYTY5N2I2MDIzMzZmNDJiMGFmZWQ5MTkzYjliYzYzNjdlNSJ9fX0="}]}}}
-  21: glow_berries{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  22: beacon{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  23: music_disc_otherside{display:{Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']}}
-  24: player_head{display:{Name:"{\"text\":\"Der Weihnachtsmann\"}",Lore:['[{"text":"Adventskalendar 2021","color":"dark_green"}]']},SkullOwner:{Id:[I;-1737552557,1684161468,-2105557318,-1694640140],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTRlNDI0YjE2NzZmZWVjM2EzZjhlYmFkZTllN2Q2YTZmNzFmNzc1NmE4NjlmMzZmN2RmMGZjMTgyZDQzNmUifX19"}]}}}
+  1: gold_block{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  2: experience_bottle{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  3: spyglass{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  4: music_disc_far{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  5: axolotl_bucket{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  6: tnt{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  7: powder_snow_bucket{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  8: black_candle{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  9: netherite_sword{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  10: music_disc_pigstep{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  11: villager_spawn_egg{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  12: totem_of_undying{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  13: player_head{display:{Name:"{\"text\":\"Schneekugel\"}",Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']},SkullOwner:{Id:[I;177065157,-835894160,-1387225976,-1033188346],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2JiZThmZDFhYTM5ZjE1MDc2ZTg4NGRmZTZkZGI5YTNmMzc2MWRiMzFlMmIxZjk5NDBiNWRmZDM0ZDFjNGQifX19"}]}}}
+  14: potion{Potion:"strong_turtle_master",display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  15: music_disc_13{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  16: dragon_breath{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  17: diamond_block{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  18: elytra{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  19: netherite_ingot{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  20: player_head{display:{Name:"{\"text\":\"Der Grinch\"}",Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']},SkullOwner:{Id:[I;-162492101,647514568,-1727142249,771732838],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRiNWY3ZWNjNDA1NzYzOTcxNzVkYTA3YjJkYzAzYTY5N2I2MDIzMzZmNDJiMGFmZWQ5MTkzYjliYzYzNjdlNSJ9fX0="}]}}}
+  21: glow_berries{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  22: beacon{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  23: music_disc_otherside{display:{Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']}}
+  24: player_head{display:{Name:"{\"text\":\"Der Weihnachtsmann\"}",Lore:['[{"text":"Adventskalender 2021","color":"dark_green"}]']},SkullOwner:{Id:[I;-1737552557,1684161468,-2105557318,-1694640140],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTRlNDI0YjE2NzZmZWVjM2EzZjhlYmFkZTllN2Q2YTZmNzFmNzc1NmE4NjlmMzZmN2RmMGZjMTgyZDQzNmUifX19"}]}}}
